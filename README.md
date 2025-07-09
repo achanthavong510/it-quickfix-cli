@@ -1,16 +1,5 @@
 # IT QuickFix CLI (macOS)
 
-## Quick Start (One-Liner)
-Run the tool directly from GitHub (no install needed):
-
-```sh
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/quickfix.sh)
-```
-
-> Replace `YOUR-USERNAME/YOUR-REPO` with the actual GitHub repo path if you fork or clone this project.
-
----
-
 A Bash-based command-line utility to automate and diagnose common macOS IT support and maintenance tasks, now with a modern, interactive terminal menu.
 
 ## Features
